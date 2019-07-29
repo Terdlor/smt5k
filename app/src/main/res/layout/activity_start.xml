@@ -16,17 +16,18 @@
                 android:gravity="center"
                 android:id="@+id/t1"/>
         <Button
-                android:text="Button1"
+                android:text="Вход"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
-                android:id="@+id/b1"/>
+                android:id="@+id/bstart"/>
         <Button
-                android:text="Button2"
+                android:text="Выход"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
-                android:id="@+id/b2"/>
+                android:layout_marginTop="40dp"
+                android:id="@+id/bend"/>
         <TextView
                 android:text=""
                 android:layout_width="match_parent"
